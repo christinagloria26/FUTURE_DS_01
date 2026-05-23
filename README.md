@@ -25,4 +25,4 @@ This project contains a Power BI dashboard created for data analysis and visuali
 - christy-task1.pbix → Power BI dashboard file
 
 ## Author
-Christina Gloria
+Christina Gloria S
